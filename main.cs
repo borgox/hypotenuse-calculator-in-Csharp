@@ -1,6 +1,6 @@
 using System;
 
-namespace lezioneSette
+namespace HypotenuseCalculator
 {
     class Program
     {
